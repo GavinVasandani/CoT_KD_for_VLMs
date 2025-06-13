@@ -1,6 +1,6 @@
 # CoT\_KD\_for\_VLMs: Chain-of-Thought Knowledge Distillation Pipelines
 
-This repository provides pipeline scripts to automate the end-to-end process of Chain-of-Thought (CoT) knowledge distillation for Vision-Language Models (VLMs) in 3D Visual Question Answering (VQA) tasks. The pipelines support multiple benchmarks (e.g., Hypo3D and ScanQA), model architectures (e.g., LLaVA-OV and Qwen2-VL), and student-teacher training paradigms (e.g., LoRA fine-tuning, KL distillation).
+This repository provides pipeline scripts to automate the end-to-end process of Chain-of-Thought (CoT) knowledge distillation for Vision-Language Models (VLMs) in 3D Visual Question Answering (VQA) tasks. The pipelines support multiple benchmarks (e.g., Hypo3D and ScanQA), model architectures (e.g., LLaVA-OV and Qwen2-VL), and student-teacher training paradigms (e.g., LoRA fine-tuning, KL distillation). **For running of ScanQA and Hypo3D benchmarks, please download datasets from their respective repositories.**
 
 ---
 
