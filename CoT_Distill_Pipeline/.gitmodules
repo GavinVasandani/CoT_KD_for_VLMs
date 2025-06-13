@@ -1,0 +1,6 @@
+[submodule "2D-VLM/Qwen2-VL/flash-attention"]
+	path = 2D-VLM/Qwen2-VL/flash-attention
+	url = https://github.com/Dao-AILab/flash-attention.git
+[submodule "3D-VLM/LLaVA-3D"]
+	path = 3D-VLM/LLaVA-3D
+	url = https://github.com/Yebulabula/LLaVA-3D.git
