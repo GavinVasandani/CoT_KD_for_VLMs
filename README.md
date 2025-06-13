@@ -28,7 +28,7 @@ bash blind_cot_inference_pipeline.sh
 
 ### 2. `cot_inference_pipeline_hypo3d.sh`
 
-Generic and modular pipeline for **Hypo3D**, parameterized by teacher/student model and dataset.
+Generic and modular pipeline for **Hypo3D**, parameterized by teacher/student model and dataset. Use this to run CoT distillation on a teacher-student VLM pair that will be fine-tuned for Hypo3D task.
 
 #### Usage:
 
@@ -49,7 +49,7 @@ bash cot_inference_pipeline_hypo3d.sh \
 
 ### 3. `cot_inference_pipeline_scanqa.sh`
 
-Same structure as the Hypo3D pipeline but tailored for **ScanQA** data and image directories.
+Same structure as the Hypo3D pipeline but tailored for **ScanQA** data and image directories. Use this to run CoT distillation on a teacher-student VLM pair that will be fine-tuned for ScanQA task.
 
 #### Example:
 
